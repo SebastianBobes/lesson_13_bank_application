@@ -196,6 +196,7 @@ def add_user_passwords(username:str,password:str, path = "passwords.json"):
 
 
 
+
 if __name__ == '__main__':
     MENU = """
     1. Adauga client.
