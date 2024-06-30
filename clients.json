@@ -1,0 +1,67 @@
+{
+    "clients": [
+        {
+            "id": "alpha1",
+            "nume": "john smith",
+            "telefon": "0755",
+            "oras": "bucuresti",
+            "balanta": 159
+        },
+        {
+            "id": "beta2",
+            "nume": "jane smith",
+            "telefon": "0755",
+            "oras": "iasi",
+            "balanta": 49
+        },
+        {
+            "id": "charlie3",
+            "nume": "jill smith",
+            "telefon": "0755",
+            "oras": "bucuresti",
+            "balanta": 2491
+        },
+        {
+            "id": "delta4",
+            "nume": "kevin smith",
+            "telefon": "0755",
+            "oras": "bucuresti",
+            "balanta": 21
+        },
+        {
+            "nume": "SEBI",
+            "telefon": "0736",
+            "oras": "BRASOV",
+            "balanta": 100,
+            "id": "RKvI"
+        },
+        {
+            "nume": "SEBI",
+            "telefon": "0736",
+            "oras": "buc",
+            "balanta": 100,
+            "id": "qJrm"
+        },
+        {
+            "nume": "ciprian",
+            "telefon": "0736587289",
+            "oras": "brasov",
+            "balanta": 1600,
+            "id": "qCBl"
+        },
+        {
+            "nume": "alexandru",
+            "telefon": "0788",
+            "oras": "timisoara",
+            "balanta": 80,
+            "id": "sSql"
+        },
+        {
+            "nume": "sebastian",
+            "telefon": "0736",
+            "oras": "braila",
+            "balanta": 1000,
+            "id": "fR1m"
+        }
+    ]
+}

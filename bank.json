@@ -1,0 +1,8 @@
+{
+  "clients":[
+    {"id": "alpha1", "balance": 0},
+    {"id": "beta2", "balance": 22},
+    {"id": "charlie3", "balance": 99},
+    {"id": "delta4", "balance": 55}
+  ]
+}
